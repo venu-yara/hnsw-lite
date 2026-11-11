@@ -1,4 +1,5 @@
 # hnsw-lite
+[![ci](https://github.com/venu-yara/hnsw-lite/actions/workflows/ci.yml/badge.svg)](https://github.com/venu-yara/hnsw-lite/actions/workflows/ci.yml)
 
 A from-scratch implementation of **HNSW** (Hierarchical Navigable Small World graphs), the
 approximate nearest-neighbor algorithm behind most vector databases (pgvector, OpenSearch,
